@@ -1,9 +1,21 @@
 <DOCTYPEHTML>
 <HTML>
 <title>
-test website
+Copter Royale
 </title>
 <body>
-<p> does this even work? </p>
+<p> Welcome to the Copter Royale web page </p>
+<p> 100 copters start the game... the winner is the last one flying! 
+Outwit and outmaneuver your opponents in this strategy free-for-all.
+Level up your copter to customize and add some extra flare. Collect 
+upgrades, shoot crates to find superpowers, and avoid the toxic fog 
+to come out on top! </p>
+<p> The controls for the game are as follows:
+Move: WASD
+Aim: Mouse Cursor or Arrow Keys
+SHoot: Left CLick or Up Key
+Activate Superpower: E or Shift
+Swap Superpower: F
+</p>
 </body>
 </HTML>
