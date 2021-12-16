@@ -4,6 +4,7 @@
 Copter Royale
 </title>
 <body>
+<h1> Basic Instructions </h1>
 <p> Welcome to the Copter Royale web page </p>
 <p> 100 copters start the game... the winner is the last one flying! 
 Outwit and outmaneuver your opponents in this strategy free-for-all.
@@ -17,5 +18,35 @@ SHoot: Left CLick or Up Key <br>
 Activate Superpower: E or Shift <br>
 Swap Superpower: F
 </p>
+<p>
+Instructions: <br>
+Crates <br>
+Whenever you encounter a crate, <br>
+You can shoot it to open it. Crates <br>
+can contain a lot of really good <br>
+upgrades including a tier 5 upgrade. <br>
+<br>
+The Map <br>
+The Map is the tool at the bottom <br>
+right of your screen. it allows you <br>
+to see where the next border will be, <br>
+pinpoint the location of a super crate <br>
+drop, and tell you where the toxic fog <br>
+is at that moment. <br>
+<br>
+Upgrades <br>
+there are 4 different upgrade categories <br>
+in the game. these can be your speed, <br>
+your bullet speed, your fire rate, and <br>
+your build strength. <br>
+<br>
+Special Upgrades <br>
+There are 3 different special upgrades <br>
+these are the amount of bullets you <br>
+fire, which can go from one to three, <br>
+a drone which fires a bullet for you, <br>
+and a shield which lets you survive <br>
+one additional hit. <br>
+
 </body>
 </HTML>
