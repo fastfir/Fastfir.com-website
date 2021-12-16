@@ -3,6 +3,9 @@
 <title>
 Copter Royale
 </title>
+<head>
+ <link rel='Stylesheet" href="stylesheet.css">
+ </head>
 <body>
 <p> Welcome to the Copter Royale web page </p>
 <h1> Basic Instructions </h1>
