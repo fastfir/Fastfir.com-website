@@ -6,6 +6,7 @@ Copter Royale
 <style>
 body {background-color: yellow; color: black;}
 h1 {background-color: red;}
+h2 {background-color: red;}
 </style>
 <body>
 <p> Welcome to the Copter Royale web page </p>
