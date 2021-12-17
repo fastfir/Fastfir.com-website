@@ -9,12 +9,12 @@ h1 {background-color: red;}
 h2 {background-color: red;}
 </style>
 <body>
-<p> Welcome to the Copter Royale web page </p>
+<h1> Welcome to the Copter Royale web page </h1>
 <h1> Basic Instructions </h1>
-<p> 100 copters start the game... the winner is the last one flying! 
-Outwit and outmaneuver your opponents in this strategy free-for-all.
-Level up your copter to customize and add some extra flare. Collect 
-upgrades, shoot crates to find superpowers, and avoid the toxic fog 
+<p> 100 copters start the game... the winner is the last one flying! <br>
+Outwit and outmaneuver your opponents in this strategy free-for-all.<br>
+Level up your copter to customize and add some extra flare. Collect <br>
+upgrades, shoot crates to find superpowers, and avoid the toxic fog <br>
 to come out on top! </p>
 <p> The controls for the game are as follows: <br>
 Move: WASD <br>
